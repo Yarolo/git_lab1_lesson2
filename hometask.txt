@@ -1,0 +1,2 @@
+Ветка master и удалённая ветка demo отличаются содержанием файла README, а именно наличием в первой строке ветки master
+следующего текста: "with nice buttons on his jacket (buttons branch)"
